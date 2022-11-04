@@ -27,8 +27,8 @@ input("input the number of brand:")
 print("attack starting")
 
 
-for y in range (100):
-	print("Trying password ",y," proccessing password ")
+for y in range (10000):
+	print("Trying orbit satelit ",y," proccessing orbit ")
 WifiHack = input("press enter to get password :")
 
 print("password:Datafilemobata")
